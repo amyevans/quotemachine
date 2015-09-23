@@ -1,26 +1,26 @@
 body {
-  background: url('mtns.jpeg') center center no-repeat;
-  background-size: cover;
-  height: 100vh;
+	background: url('mtns.jpeg') center center no-repeat;
+	background-size: cover;
+	height: 100vh;
 }
 
 h1 {
-  padding-bottom: 25px;
-  font-family: 'Fredericka the Great';
-  font-size: 400%;
+	padding-bottom: 25px;
+	font-family: 'Fredericka the Great';
+	font-size: 400%;
 }
 
 .quote-area {
-  color: #333;
-  background-color: rgba(200,200,200,0.5);
-  font-family: 'Special Elite';
-  font-size: 110%;
+	color: #333;
+	background-color: rgba(200,200,200,0.5);
+	font-family: 'Special Elite';
+	font-size: 110%;
 }
 
 .btn {
-  margin: 10px 10px;
-  opacity: 0.8;
-  color: rgba(25, 25, 25, 0.9);
-  font-family: 'Fredericka the Great';
-  font-size: 125%;
+	margin: 10px 10px;
+	opacity: 0.8;
+	color: rgba(25, 25, 25, 0.9);
+	font-family: 'Fredericka the Great';
+	font-size: 125%;
 }
